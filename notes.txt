@@ -1,0 +1,19 @@
+--- Commands React Native ---
+
+npm install --global expo-cli : Instalar o expo
+expo init (project name) : Criar um novo projeto
+npm star : Inicia o projeto
+
+
+--- Componentes Básicos ---
+View : Reservando um espaço na tela
+Image : Trabalhar com imagens
+Scrollview : Escrolar a tela
+Text : Inserir texto
+text input : Para que o usuário possa inserir dados
+Stylesheet : Adicionar estilo
+
+--- Componentes de interface de usuário ---
+* Interação do usuário
+Button : Botão
+Switch : Ativar/Desativar Algo
